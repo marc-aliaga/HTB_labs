@@ -1,17 +1,5 @@
----
-title: "HTB · Unclaimed — del chatbot LLM al RCE en MSSQL"
-![export IP](/img/htb/unclaimed/miniatura.png)
 
-date: 2026-11-14
-category: "HTB"
-difficulty: "Media"
-os: "Windows"
-tags: [LLM, Prompt Injection, MSSQL, xp_cmdshell, Impersonation]
-repo: "https://github.com/marc-aliaga/HTB_labs/tree/main/LLM_Injection%20%2B%20SQLi"
-video: ""
-machine: "https://labs.hackthebox.com/achievement/machine/4228633/1012"
----
-
+![miniatura](/img/htb/unclaimed/miniatura.png)
 # HTB · Unclaimed (Seasonal) — Walkthrough
 
 **Máquina:** `unclaimed.htb` — *HTB Airlines · Baggage Services*
