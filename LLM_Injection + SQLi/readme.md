@@ -1,5 +1,5 @@
 
-![miniatura](./img/htb/unclaimed/miniatura.png)
+![miniatura](./img/htb/unclaimed/minatura.png)
 # HTB · Unclaimed (Seasonal) — Walkthrough
 
 **Máquina:** `unclaimed.htb` — *HTB Airlines · Baggage Services*
